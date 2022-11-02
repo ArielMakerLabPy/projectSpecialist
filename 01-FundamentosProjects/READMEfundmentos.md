@@ -10,7 +10,7 @@
 
 Es un **esfuerzo temporal** que se lleva a cabo para **crear** un producto, servicio o **resultado único**.
 
-#### Clasificación de proyectos:
+#### Clasificación de proyectos
 
 * Lucrativos o económicos
 * Causas sociales, tanto públicos como privados.
