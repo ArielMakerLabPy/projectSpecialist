@@ -116,6 +116,109 @@ Es el proceso del registrar cuánto tiempo ha pasado una persona realizando una 
 
 ## Recursos y costos
 
+### ¿Qué son los recursos y los costos?
+
+#### ¿Qué son los recursos?
+
+Un recurso es todo lo que se necesita para ejecutar una tarea o proyecto.
+
+##### Tipos de recursos
+
+1. Físicos.
+2. Humanos.
+3. Propiedad intelectual.
+4. Relaciones y contactos.
+5. Financieros.
+
+#### ¿Qué son los costos?
+
+Son todos aquellos gastos en los que se incurre para realizar una tarea, un trabajo o un proyecto determinado.
+
+### Dinámica para diferenciar costos vs gastos
+
+#### ¿Qué es un gasto?
+
+Es cualquier desembolso que vamos a incurrir a la hora de financiar una actividad o tarea que no está vinculada directamente a la producción del producto o servicio que vamos a brindar como resultado de nuestro proyecto. Ejemplo, publicidad, gastos de limpieza o bioseguridad, gastos de oficina, salario de personal administrativo o técnico, etc.
+
+### Entrevista: ¿Como gestionar los recursos en un proyecto?
+
+Van ligados al desgloce de las actividades y el tiempo necesario de ejecución.
+
+Se trabaja en base al presupuesto general.
+
+El recurso financiero limita mucho la ambición y hay que trabajarlo. Tener muy encuenta al principio del proyecto la parte legal.
+
 ## Riesgos y crisis
 
+### Identificación de riesgos
+
+#### ¿Qué es un riesgo?
+
+Los riesgos en proyectos son los eventos o condiciones inciertas que, en caso de ocurrir, tiene un efecto positivo o negativo sobre los objetivos de un proyecto.
+
+#### Proceso de gestión de riesgo
+
+-> Identificar los riesgos -> Determinar probabilidad e impaco -> Encontrar soluciones para cada riesgo -> Evaluar de forma periódica -> ...
+
+#### Los 5 errores más comunes de riesgo posibles
+
+* Escasez de recursos.
+* Bajo desempeño.
+* Falta de claridad.
+* Costos elevados.
+* Factor de tiempo.
+
+### Gestión de crisis
+
+#### ¿Qué es una crisis?
+
+Una interrupción en la normalidad, un evento imprevisto que podría tener un efecto negativo en el proyecto, su producción, su reputación o los intereses de los interesados.
+
+#### ¿Qué puede provocar una crisis?
+
+1. Ataques al proyecto.
+2. Accidentes.
+3. Daños premeditados.
+
+#### ¿Cómo afronto una crisis?
+
+1. Detección de señales.
+2. Preparación y prevención.
+3. Gestión o comunicación.
+4. Contención o control.
+5. Recuperación.
+6. Aprendizaje.
+
+### Entrevista: ¿Cómo anticipar los riesgos en un proyecto?
+
+A traves de matrices de riesgo.
+
+Evaluar al máximo los detalles.
+
+Prevención con capacitación. Planificación previo de posibles escenarios.
+
 ## Cierre
+
+### Cierre de un proyecto
+
+Es el último ciclo de un proyecto. Se realiza de dos formas:
+
+* Contractual: comunicación a personal y proveedores que ya no necesitamos.
+* Administrativo: realizado generalmente por los dueños del proyecto.
+
+#### ¿Qué debemos hacer en la etapa de cierre?
+
+1. Confirmar que el trabajo se haya cumplido como lo esperado.
+2. Verificar que las compras se hayan hecho de manera exitosa.
+3. Realizar el cierre financiero.
+4. Transferencia del producto o servicio final.
+5. Obtener feedback.
+6. Realizar y completar el informe final.
+7. Lecciones aprendidas.
+8. Archivar información.
+9. Entrega de activos.
+10. Liberar equipo.
+
+### ¿Qué sigue ahora?
+
+Continuar con el siguiente curso donde se realiza el curso práctico de project management
